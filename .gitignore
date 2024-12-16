@@ -1,0 +1,5 @@
+myenv/*
+chroma_db/*
+azure_chroma_db/*
+local_chroma_db/*
+chroma_langchain_db/*
